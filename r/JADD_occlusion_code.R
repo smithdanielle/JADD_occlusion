@@ -208,7 +208,7 @@ occlusion2.data$psychometric.parameters <- read.csv("../data/JADD_occlusion_Psyc
 occlusion2.data$reactionData <- read.csv("../data/JADD_occlusion_ReactionData.csv", stringsAsFactors = FALSE)
 occlusion2.data$descriptives <- read.csv("../data/JADD_occlusion_Descriptives.csv", stringsAsFactors = FALSE)
 
-# aggregated data can be found in '..\data\aggregate\JADD_occlusion_data_raw.csv'
+# Aggregated data can be found in '..\data\aggregate\JADD_occlusion_data_aggregate.csv'
 
 ## ---- occlusion2-data-munge ----
 # Remove TD participants who have larger-than-threshold AQ score
