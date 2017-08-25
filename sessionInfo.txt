@@ -1,0 +1,33 @@
+R version 3.3.2 (2016-10-31)
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Running under: OS X Yosemite 10.10.5
+
+locale:
+[1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] VennDiagram_1.6.17   futile.logger_1.4.3  RcmdrMisc_1.0-5      royston_1.2          MVN_4.0.2            cowplot_0.7.0        stringr_1.1.0        VIM_4.6.0           
+ [9] colorspace_1.3-2     GGally_1.3.0         devtools_1.12.0      ggExtra_0.6          plotrix_3.6-3        dplyr_0.5.0          gridExtra_2.2.1      tidyr_0.6.0         
+[17] mediation_4.4.5      sandwich_2.3-4       mvtnorm_1.0-5        MissMech_1.0.2       mokken_2.8.4         poLCA_1.4.1          scatterplot3d_0.3-37 lavaan_0.5-22       
+[25] missForest_1.4       itertools_0.1-3      iterators_1.0.8      foreach_1.4.3        randomForest_4.6-12  modelfree_1.1-1      SparseM_1.74         PolynomF_0.94       
+[33] MPDiR_0.1-16         lsmeans_2.25         estimability_1.2     lmSupport_2.9.4      pequod_0.0-5         xtable_1.8-2         relaimpo_2.2-2       mitools_2.3         
+[41] survey_3.31-5        QuantPsyc_1.5        diptest_0.75-7       moments_0.14         aspace_3.2           shapefiles_0.7       foreign_0.8-67       splancs_2.01-39     
+[49] sp_1.2-3             data.table_1.10.0    nFactors_2.3.3       boot_1.3-18          psych_1.6.9          apsrtable_0.8-8      memisc_0.99.7-1      MASS_7.3-45         
+[57] plyr_1.8.4           pander_0.6.0         Hmisc_4.0-1          Formula_1.2-1        survival_2.40-1      lattice_0.20-34      afex_0.13-145        reshape2_1.4.2      
+[65] lme4_1.1-12          Matrix_1.2-7.1       car_2.1-4            ggplot2_2.2.0       
+
+loaded via a namespace (and not attached):
+ [1] readxl_0.1.1          VGAM_1.0-2            lazyeval_0.2.0        splines_3.3.2         unmarked_0.11-0       TH.data_1.0-7         digest_0.6.10         htmltools_0.3.5      
+ [9] lmerTest_2.0-33       magrittr_1.5          memoise_1.0.0         AICcmodavg_2.1-0      cluster_2.0.5         lpSolve_5.6.13        rrcov_1.4-3           zoo_1.7-13           
+[17] gtable_0.2.0          MatrixModels_0.4-1    kernlab_0.9-25        prabclus_2.2-6        DEoptimR_1.0-8        abind_1.4-5           scales_0.4.1          sgeostat_1.0-27      
+[25] futile.options_1.0.0  DBI_0.5-1             sROC_0.1-2            miniUI_0.1.1          Rcpp_0.12.8           laeken_0.4.6          htmlTable_1.7         mclust_5.2           
+[33] stats4_3.3.2          vcd_1.4-3             RColorBrewer_1.1-2    fpc_2.1-10            acepack_1.4.1         modeltools_0.2-21     reshape_0.8.6         flexmix_2.3-13       
+[41] multcompView_0.1-7    nnet_7.3-12           labeling_0.3          munsell_0.4.3         tools_3.3.2           pls_2.5-0             cvTools_0.3.2         knitr_1.15.1         
+[49] robustbase_0.92-7     coin_1.1-3            nlme_3.1-128          mime_0.5              quantreg_5.29         pbkrtest_0.4-6        e1071_1.6-7           tibble_1.2           
+[57] robCompositions_2.0.2 pbivnorm_0.6.0        pcaPP_1.9-61          stringi_1.1.2         trimcluster_0.1-2     nloptr_1.0.4          lmtest_0.9-34         corpcor_1.6.8        
+[65] raster_2.5-8          httpuv_1.3.3          R6_2.2.0              latticeExtra_0.6-28   codetools_0.2-15      lambda.r_1.1.9        assertthat_0.1        openssl_0.9.5        
+[73] withr_1.0.2           nortest_1.0-4         mnormt_1.5-5          multcomp_1.4-6        mgcv_1.8-15           parallel_3.3.2        quadprog_1.5-5        rpart_4.1-10         
+[81] coda_0.19-1           base64_2.0            class_7.3-14          minqa_1.2.4           mvoutlier_2.0.6       gvlma_1.0.0.2         shiny_0.14.2         
