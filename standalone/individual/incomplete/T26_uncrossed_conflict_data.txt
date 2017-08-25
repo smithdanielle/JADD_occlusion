@@ -1,0 +1,9 @@
+--------------------------------
+31-Mar-2015 11:00:05 
+data from observer T26 
+#occlusion2 expt 
+reference disparity (degrees) 0.160000 
+
+stim order disp kresp testresp correct time
+1    2    0.074    1    2   1    17.27
+2    1    0.069    2    2   1    3.78
